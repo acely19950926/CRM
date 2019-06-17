@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CRM:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60f9fc13-1bd4-43bc-b569-8efb418424b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/dao/LinkmanDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/dao/LinkmanDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/dao/impl/LinkmanDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/dao/impl/LinkmanDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/domain/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/domain/Linkman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/domain/Linkman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/service/LinkmanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/service/LinkmanService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/service/impl/LinkmanServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/service/impl/LinkmanServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/web/action/CustomerAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/web/action/CustomerAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/web/action/LinkmanAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/web/action/LinkmanAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/linkman/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jsp/linkman/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/linkman/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jsp/linkman/list.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itheima/web/action/LinkmanAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itheima/dao/impl/LinkmanDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="52" column="92" selection-start-line="52" selection-start-column="82" selection-end-line="52" selection-end-column="92" />
+              <folding>
+                <element signature="e#824#825#0" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#1079#1080#0" expanded="true" />
+                <element signature="e#1111#1112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itheima/service/impl/LinkmanServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1352">
+              <caret line="65" column="57" lean-forward="true" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+              <folding>
+                <element signature="e#2415#2416#0" expanded="true" />
+                <element signature="e#2464#2465#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itheima/domain/PageBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="70" column="47" lean-forward="true" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/jsp/linkman/list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="175" column="36" lean-forward="true" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#DIV#0;n#SPAN#0;n#TD#0;n#TR#2;n#TBODY#0;n#TABLE#1;n#TD#1;n#TR#0;n#TBODY#0;n#TABLE#1;n#FORM#0;n#BODY#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="struts" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>return null;</find>
+      <find>lkmGender</find>
+      <find>联系人</find>
+      <find>修改</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/struts.xml" />
+        <option value="$PROJECT_DIR$/src/com/itheima/domain/User.java" />
+        <option value="$PROJECT_DIR$/web/regist.jsp" />
+        <option value="$PROJECT_DIR$/web/top.jsp" />
+        <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/web/edit.jsp" />
+        <option value="$PROJECT_DIR$/src/com/itheima/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/web/action/UserAction.java" />
+        <option value="$PROJECT_DIR$/web/jsp/success.jsp" />
+        <option value="$PROJECT_DIR$/src/com/itheima/domain/User.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/com/itheima/domain/BaseDict.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/service/BaseDictService.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/service/impl/BaseDictServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/dao/BaseDictDao.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/dao/impl/BaseDictDaoImpl.java" />
+        <option value="$PROJECT_DIR$/web/jsp/customer/add.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/jdbc.properties" />
+        <option value="$PROJECT_DIR$/web/jsp/customer/edit.jsp" />
+        <option value="$PROJECT_DIR$/src/com/itheima/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/service/impl/CustomerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/dao/CustomerDao.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/dao/impl/CustomerDaoImpl.java" />
+        <option value="$PROJECT_DIR$/web/jsp/customer/list.jsp" />
+        <option value="$PROJECT_DIR$/web/menu.jsp" />
+        <option value="$PROJECT_DIR$/web/jsp/linkman/add.jsp" />
+        <option value="$PROJECT_DIR$/src/com/itheima/web/action/CustomerAction.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/domain/Linkman.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/domain/Customer.java" />
+        <option value="$PROJECT_DIR$/web/jsp/linkman/edit.jsp" />
+        <option value="$PROJECT_DIR$/src/com/itheima/service/LinkmanService.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/dao/LinkmanDao.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/dao/impl/LinkmanDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/service/impl/LinkmanServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/web/action/LinkmanAction.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/domain/PageBean.java" />
+        <option value="$PROJECT_DIR$/web/jsp/linkman/list.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="true" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1228" />
+    <option name="y" value="-1064" />
+    <option name="width" value="1936" />
+    <option name="height" value="1412" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="customer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="linkman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="3a34d1a0-d837-4d52-8a7b-d0d4ba901f34" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/jsp/linkman" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.18365696" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.itheima.dao.impl" />
+      <recent name="com.itheima.dao" />
+      <recent name="com.itheima.service.impl" />
+      <recent name="com.itheima.service" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.itheima.domain" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\AcelyProj\CRM\web\jsp\linkman" />
+      <recent name="F:\AcelyProj\CRM\src" />
+      <recent name="F:\AcelyProj\CRM\web" />
+      <recent name="F:\AcelyProj\CRM\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="CRM:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/CRM" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_CRM_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3114" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CRM:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">C:\Users\Chen\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\AcelyProj\CRM" />
+          <option name="myCopyRoot" value="F:\AcelyProj\CRM" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\AcelyProj\CRM\.idea" />
+          <option name="myCopyRoot" value="F:\AcelyProj\CRM\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\AcelyProj\CRM" />
+          <option name="myCopyRoot" value="F:\AcelyProj\CRM" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60f9fc13-1bd4-43bc-b569-8efb418424b1" name="Default Changelist" comment="" />
+      <created>1560349974251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560349974251</updated>
+      <workItem from="1560349976622" duration="9376000" />
+      <workItem from="1560395209831" duration="24569000" />
+      <workItem from="1560479889757" duration="27596000" />
+      <workItem from="1560522315756" duration="1967000" />
+      <workItem from="1560525150965" duration="3907000" />
+      <workItem from="1560561729202" duration="1455000" />
+      <workItem from="1560737078299" duration="21454000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1560531096458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560531096458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90324000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1226" y="-1093" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.30868167" side_tool="true" weight="0.21215352" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Persistence" order="2" sideWeight="0.3135436" side_tool="true" weight="0.13965885" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="8" sideWeight="0.6864564" visible="true" weight="0.1609808" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.36441585" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49946696" visible="true" weight="0.23258306" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.7620579" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290461" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3290461" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="SVN Repositories" order="15" visible="true" weight="0.06859592" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Database" order="1" weight="0.32980332" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/jsp/customer/edit.jsp</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/jsp/linkman/add.jsp</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/jsp/linkman/list.jsp</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/regist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="53" column="92" lean-forward="true" selection-start-line="53" selection-start-column="92" selection-end-line="53" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="349" selection-start-line="349" selection-end-line="349" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/top.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="66" column="67" lean-forward="true" selection-start-line="66" selection-start-column="67" selection-end-line="66" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/login_1.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/timg3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3351">
+          <caret line="136" column="65" selection-start-line="136" selection-start-column="65" selection-end-line="136" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#TD#1;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#INPUT#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#TD#0;n#TR#5;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#TD#1;n#TR#5;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#INPUT#0;n#TD#1;n#TR#7;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#0#49#1" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/new_019.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/web/action/UserAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="75" column="23" lean-forward="true" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2842#2843#0" expanded="true" />
+            <element signature="e#2869#2870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/domain/User.hbm.xml" />
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/service/BaseDictService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/service/impl/BaseDictServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/dao/BaseDictDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/dao/impl/BaseDictDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#36#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/service/impl/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding>
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/dao/impl/CustomerDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#0#13#1" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/dao/CustomerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/domain/BaseDict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/customer/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="83" column="44" lean-forward="true" selection-start-line="81" selection-start-column="31" selection-end-line="83" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="109" column="76" lean-forward="true" selection-start-line="109" selection-start-column="76" selection-end-line="109" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/web/action/CustomerAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="97" column="38" lean-forward="true" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5601#5602#0" expanded="true" />
+            <element signature="e#5632#5633#0" expanded="true" />
+            <element signature="e#5684#5685#0" expanded="true" />
+            <element signature="e#5724#5725#0" expanded="true" />
+            <element signature="e#5779#5780#0" expanded="true" />
+            <element signature="e#5822#5823#0" expanded="true" />
+            <element signature="e#5875#5876#0" expanded="true" />
+            <element signature="e#5916#5917#0" expanded="true" />
+            <element signature="e#5963#5964#0" expanded="true" />
+            <element signature="e#5998#5999#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/domain/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#toString#0;class#Customer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/customer/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-897">
+          <caret line="34" column="71" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/customer/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="160" column="44" lean-forward="true" selection-start-line="160" selection-start-column="44" selection-end-line="160" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/domain/Linkman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/linkman/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/linkman/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#INPUT#0;n#td#1;n#TR#0;n#TABLE#1;n#TD#1;n#TR#0;n#TBODY#0;n#TABLE#1;n#FORM#0;n#BODY#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/dao/LinkmanDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/xwork-core-2.3.24.jar!/com/opensymphony/xwork2/ognl/accessor/XWorkMethodAccessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/ognl-3.0.6.jar!/ognl/ASTMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/debugging/DebuggingInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/xwork-core-2.3.24.jar!/com/opensymphony/xwork2/DefaultActionInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/ognl-3.0.6.jar!/ognl/OgnlRuntime.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="743">
+          <caret line="810" selection-start-line="810" selection-end-line="810" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/service/LinkmanService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/web/action/LinkmanAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/service/impl/LinkmanServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1352">
+          <caret line="65" column="57" lean-forward="true" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+          <folding>
+            <element signature="e#2415#2416#0" expanded="true" />
+            <element signature="e#2464#2465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/dao/impl/LinkmanDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="52" column="92" selection-start-line="52" selection-start-column="82" selection-end-line="52" selection-end-column="92" />
+          <folding>
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/domain/PageBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="70" column="47" lean-forward="true" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/linkman/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="175" column="36" lean-forward="true" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#DIV#0;n#SPAN#0;n#TD#0;n#TR#2;n#TBODY#0;n#TABLE#1;n#TD#1;n#TR#0;n#TBODY#0;n#TABLE#1;n#FORM#0;n#BODY#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Struts 2 (CRM)|Struts 2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18365696" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18365696" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Struts 2|Web|CRM</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18365696" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18365696" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

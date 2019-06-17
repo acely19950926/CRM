@@ -1,0 +1,29 @@
+package com.itheima.service.impl;
+
+import com.itheima.dao.LinkmanDao;
+import com.itheima.domain.Linkman;
+import com.itheima.service.LinkmanService;
+import org.hibernate.criterion.DetachedCriteria;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import java.util.List;
+
+@Service
+@Transactional
+public class LinkmanServiceImpl implements LinkmanService {
+
+    @Autowired
+    private LinkmanDao linkmanDao;
+
+    @Override
+    public void save(Linkman linkman) {
+        linkmanDao.save(linkman);
+    }
+
+    @Override
+    public List<Linkman> findByCondition(DetachedCriteria detachedCriteria) {
+        return linkmanDao.findByCondition(detachedCriteria);
+    }
+}

@@ -1,0 +1,106 @@
+package com.itheima.web.action;
+
+import com.itheima.domain.Customer;
+import com.itheima.domain.Linkman;
+import com.itheima.service.CustomerService;
+import com.itheima.service.LinkmanService;
+import com.opensymphony.xwork2.ActionContext;
+import com.opensymphony.xwork2.ActionSupport;
+import com.opensymphony.xwork2.ModelDriven;
+import org.apache.commons.lang3.StringUtils;
+import org.apache.struts2.convention.annotation.*;
+import org.hibernate.criterion.DetachedCriteria;
+import org.hibernate.criterion.Restrictions;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Controller;
+
+import java.util.List;
+
+@Controller
+@Scope("prototype")
+@ParentPackage("struts-default")
+@Namespace("/")
+@Results({
+        @Result(name = "addUI", location = "/jsp/linkman/add.jsp"),
+        @Result(name = "list", location = "/jsp/linkman/list.jsp")
+})
+public class LinkmanAction extends ActionSupport implements ModelDriven<Linkman> {
+
+    private Linkman linkman = new Linkman();
+
+    @Autowired
+    private CustomerService customerService;
+    @Autowired
+    private LinkmanService linkmanService;
+
+    //属性驱动
+    private List<Customer> customerList;
+
+    /**
+     * 条件查询
+     */
+    @Action("linkmanAction_findByCondition")
+    public String findByCondition() {
+        //1、需要查询所属客户信息放在页面上
+        customerList = customerService.findAll();
+
+        //拼接条件
+        //如果要使用拼接条件，使用DetachedCriteria
+        DetachedCriteria detachedCriteria = DetachedCriteria.forClass(Linkman.class);
+
+        //判断名称是否存在
+        if (!StringUtils.isBlank(linkman.getLkmName())) {
+            detachedCriteria.add(Restrictions.like("lkmName", "%" + linkman.getLkmName() + "%"));
+        }
+
+        //判断性别是否存在
+        System.err.println(linkman.getLkmGender());
+        if (!StringUtils.isBlank(linkman.getLkmGender())) {
+            detachedCriteria.add(Restrictions.eq("lkmGender", linkman.getLkmGender()));
+        }
+
+        //判断所属客户是否存在 Long类型 需要特殊判断
+        //需要先判断对象是否为null
+        if (linkman.getCustomer() != null && linkman.getCustomer().getCustId() != null) {
+            detachedCriteria.add(Restrictions.eq("customer.custId", linkman.getCustomer().getCustId()));
+        }
+
+        //查询联系人的数据
+        List<Linkman> linkmanList = linkmanService.findByCondition(detachedCriteria);
+
+        //手动将值放入值栈
+        ActionContext.getContext().getValueStack().set("linkmanList", linkmanList);
+
+        return "list";
+    }
+
+    /**
+     * 添加前显示客户集合数据
+     * @return
+     */
+    @Action("linkmanAction_addUI")
+    public String addUI() {
+        customerList = customerService.findAll();   //返回所属客户
+        return "addUI";
+    }
+
+    /**
+     * 新增联系人功能
+     * @return
+     */
+    @Action("linkmanAction_add")
+    public String add() {
+        linkmanService.save(linkman);
+        return "list";
+    }
+
+    @Override
+    public Linkman getModel() {
+        return linkman;
+    }
+
+    public List<Customer> getCustomerList() {
+        return customerList;
+    }
+}
